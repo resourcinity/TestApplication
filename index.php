@@ -6,3 +6,4 @@
  * Time: 11:08 AM
  */
 echo 'Testing for github';
+echo file_get_contents("http://google.com");
